@@ -174,3 +174,7 @@ cython_debug/
 .DS_Store
 movesets_data/
 checks_data/
+
+# GCoG
+checkpoints/
+*tensorboard*/
